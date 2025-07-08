@@ -29,6 +29,7 @@ Mi Band 8,
 Mi Band 8 Pro,  
 Mi Band 9,    
 Mi Band 9 Pro,  
+Mi Band 10,  
 Redmi Watch 5 Active/Lite,  
 Redmi Watch 5,
    
