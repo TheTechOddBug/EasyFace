@@ -19,19 +19,22 @@ Xiaomi Color2,
 Xiaomi Watch S1,  
 Xiaomi Watch S1 Pro,  
 Xiaomi Watch S2,  
-Xaiomi Watch S3,   
-Xaiomi Watch S4,  
+Xiaomi Watch S3,   
+Xiaomi Watch S4,  
+Xiaomi Watch S5,  
 Redmi Watch 2/3/4,  
 Redmi Watch 3 Active,  
 Redmi Band Pro,  
 Mi Band 7 Pro,    
 Mi Band 8,  
-Mi Band 8 Pro,  
 Mi Band 9,    
-Mi Band 9 Pro,  
 Mi Band 10,  
+Mi Band 8 Pro,  
+Mi Band 9 Pro,  
+Mi Band 10 Pro,  
 Redmi Watch 5 Active/Lite,  
-Redmi Watch 5,
+Redmi Watch 5,  
+Redmi Watch 6,  
    
 you should replace files from release archive  
 
@@ -52,7 +55,7 @@ you should replace files from release archive
 2. We have an unpacker tool to decompile ready watchfaces and use it in Easyface editor, plus community of experienced editors who can assist you in any questions.
 3. Online db has web UI control panel, you can get any ready watchface and use as your base, to adapt to any language you want for example.
    Access to this db restricted by watch mac, to keep db consistency, so you should provide any chat admin mac address of your watch/band to get access
-4. Adding of editors process is manual currently, I going automatizate it later.
+4. Adding of editors process is manual currently, I going automatize it later.
 
 ### How to work with watchfaces you can find in wiki section
 https://github.com/m0tral/EasyFace/wiki
