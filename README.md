@@ -63,8 +63,8 @@ https://github.com/m0tral/EasyFace/wiki
 # Russian
 
 Внимание!! Для создания циферблатов для часов  
-после 2021 года, Color2, S1, S1 Pro, S2, Redmi Watch 2/3, Redmi Watch 3 Active  
-Redmi Band Pro, Mi Band 7 Pro, Mi Band 8, Mi Band 8 Pro необходимо после установки  
+после 2021 года, Color2, S1-S5, S1 Pro, Redmi Watch 2..7, Redmi Watch 3/5 Active  
+Redmi Band Pro, Mi Band 7-10 Pro, Mi Band 8-11 необходимо после установки  
 редактора Easyface заменить файлы из этого архив релиза,ссылка вверху или справа. 
 
 ### Инструкция по установке
